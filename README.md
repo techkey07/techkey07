@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Akash!
 
 ### 💻 B.Tech CSE (Health Informatics) Student | AI/ML Enthusiast
-<img align="right" alt="coding" width="400" src="img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/30c6408e-0959-4dfd-85e7-d3d2ba8b546b">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/30c6408e-0959-4dfd-85e7-d3d2ba8b546b">
 I'm currently pursuing my B.Tech in Computer Science and Engineering (Health Informatics) at VIT Bhopal University (2025–2029).
 
 I'm passionate about exploring different areas of computer science, building practical solutions, and continuously improving my technical skills. I enjoy experimenting with new technologies, solving problems, and turning ideas into working projects.
