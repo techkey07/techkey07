@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Akash!
 
-### 💻 B.Tech CSE (Health Informatics) Student | Aspiring Software Developer | AI/ML Enthusiast
+### 💻 B.Tech CSE (Health Informatics) Student | AI/ML Enthusiast
 
 I'm currently pursuing my **B.Tech in Computer Science and Engineering (Health Informatics) at VIT Bhopal University (2025–2029)**.
 
@@ -58,13 +58,6 @@ An AI-powered healthcare triage and referral platform designed to improve access
 - Includes doctor dashboards and referral assistance.
 - Built using HTML, CSS, JavaScript, Python, and Leaflet.
 
-### 📋 E-MEDID
-A digital health records management prototype that helps users organize and understand their medical reports.
-
-- Organizes multiple categories of medical investigations.
-- Supports historical reports and medical data tracking.
-- Includes an AI-powered chatbot for report explanations and doctor-question preparation.
-- Developed using Python and Streamlit.
 
 ### 📑 Tender Lens
 An AI-based tender analysis project designed to simplify the evaluation of government tenders.
@@ -117,9 +110,9 @@ A Python-based project developed as part of the eSim Semester Long Internship sc
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techkey07&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techkey07&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
