@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Akash!
 
 ### 💻 B.Tech CSE (Health Informatics) Student | AI/ML Enthusiast
-
+<img align="right" alt="coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">
 I'm currently pursuing my **B.Tech in Computer Science and Engineering (Health Informatics) at VIT Bhopal University (2025–2029)**.
 
 I'm passionate about exploring different areas of computer science, building practical solutions, and continuously improving my technical skills. I enjoy experimenting with new technologies, solving problems, and turning ideas into working projects.
